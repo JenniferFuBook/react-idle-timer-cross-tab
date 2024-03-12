@@ -1,1 +1,1 @@
-An Login and Logout example.
+An Login and Logout example with React Router.
