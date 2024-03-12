@@ -17,7 +17,7 @@ export const MainPage = () => {
       </nav>
       <hr />
       <Outlet />
-      <button style={{marginTop: '20px'}} onClick={() => navigate('/')}>Log Out</button>
+      <button style={{marginTop: '20px'}} onClick={() => navigate('/')}>Logout</button>
     </>
   );
 };
