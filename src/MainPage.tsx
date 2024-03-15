@@ -1,7 +1,8 @@
-import { Link, Outlet } from 'react-router-dom';
-import { useNavigate } from 'react-router-dom';
+import { Link, Outlet, useNavigate } from 'react-router-dom';
+import { useConfiguredIdleTimer } from './useConfiguredIdleTimer';
 
 export const MainPage = () => {
+  useConfiguredIdleTimer();
   const navigate = useNavigate();
   return (
     <>
