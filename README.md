@@ -1,1 +1,1 @@
-An Login and Logout example with React Router.
+This repository contains an example of implementing login and logout functionality using React Router. It is based on the concepts described in the article [Mastering React Idle Timer: A Comprehensive Guide](https://medium.com/javascript-in-plain-english/mastering-react-idle-timer-a-comprehensive-guide-a3ad81ea03a3).
